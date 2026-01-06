@@ -1,0 +1,10 @@
+# Jupyter/Colab notebooks
+.ipynb_checkpoints/
+
+# Python system files
+__pycache__/
+*.pyc
+
+# Data backups (optional but safe)
+*.bak
+*.tmp
